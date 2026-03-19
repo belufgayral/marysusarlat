@@ -1,0 +1,90 @@
+{
+    "header": {
+        "title": "Mary Su Sarlat",
+        "nav": {
+            "books": "Livres",
+            "interviews": "Entretiens",
+            "travels": "Voyages",
+            "about": "À propos de moi",
+            "contact": "Contact",
+            "menu": "Menu de navigation"
+        }
+    },
+    "books": [
+        {
+            "title": "El Jardín de Klingsor",
+            "description": "Saúl Cáceres, célèbre chirurgien orthopédiste, a perdu son âme, mais il ne le sait pas. Une personne proche s'en est rendu compte et l'incite à faire un voyage sur la magnifique côte amalfitaine en Italie. Après réflexion, Saúl accepte et part, sans le savoir, vers une aventure qui changera complètement sa vie. Il se passera qu'à Ravello, et sous le charme de la musique wagnérienne née en ce lieu, la vie lui dévoilera des situations inattendues, évidentes pour tous sauf pour lui, lui montrant que la magie existe lorsque le cœur s'ouvre à de nouvelles expériences.",
+            "get_it": [
+                "Ce titre n'est pas en vente",
+                "L'obtenir"
+            ],
+            "link": "#"
+        },
+        {
+            "title": "Historia Novelada de la Casa Fox",
+            "description": "À travers une combinaison d'histoire et de roman, \"Histoire de la Maison Fox\" suit le voyage de Don Miguel de Fox, descendant de nobles aragonais, alors qu'il se bat pour protéger son héritage et la mémoire de ses ancêtres. De l'époque des Templiers à l'Espagne moderne, Miguel découvre les secrets et les défis de sa lignée, affrontant des problèmes juridiques et sociaux tout en honorant l'histoire de sa famille. Le récit révèle des liens historiques avec les anciens Chevaliers Templiers et démêle les conflits culturels et religieux dans une ville où la mémoire ancestrale fait face à la complexité moderne.",
+            "get_it": [
+                "Ce titre n'est pas en vente",
+                "L'obtenir"
+            ],
+            "link": "#"
+        },
+        {
+            "title": "La Desaparición del Donante Francés",
+            "description": "Minerva Molé, diplômée en histoire de l'art, est envoyée de sa France natale à Barcelone, où elle doit prendre contact avec le capitaine de police Jordi Betancourt. Un étranger a fait don de tableaux précieux au musée où travaille Minerva, pour ensuite disparaître sans laisser de trace. Une mystérieuse organisation appelée \"Les Bienfaiteurs\" entre en scène, obligeant la France et l'Espagne, ainsi que le Canada, à redoubler d'efforts pour briser un réseau d'événements sinistres se développant en Europe par leur fait. Implants de micropuces, meurtres et implication de personnages simples émergeant de leurs coins opaques soutiennent cette intrigue pleine d'action et de suspense.",
+            "get_it": [
+                "Ce titre n'est pas en vente",
+                "L'obtenir"
+            ],
+            "link": "#"
+        },
+        {
+            "title": "La Octava Gaveta (El Legado Templario)",
+            "description": "Une série de découvertes a eu lieu dans les installations d'un manoir seigneurial situé à Cañuelas, Province de Buenos Aires. Abel Zaldívar n'aurait jamais imaginé que l'histoire familiale pourrait lui réserver une telle surprise, lorsqu'il s'apprêtait à mettre de l'ordre dans les documents de son père. Qu'avait-il à voir avec les anciens Chevaliers Templiers? À son avis, absolument rien. Pourtant, la découverte inattendue allait l'entraîner dans des aventures extraordinaires qu'il devrait assumer, bien malgré lui. Lorsque l'Histoire et l'actualité se conjuguent à l'unisson, elles nous offrent une intrigue aux caractéristiques enveloppantes, telles que celles reflétées à travers les pages du Huitième Tiroir.",
+            "get_it": [
+                "Ce titre n'est pas en vente",
+                "L'obtenir"
+            ],
+            "link": "#"
+        }
+    ],
+    "cta": {
+        "coming_soon": "Bientôt disponible !",
+        "interviews": {
+            "title": "Intéressé à en savoir plus sur mon travail ?",
+            "link": "Écoutez mes entretiens"
+        },
+        "travels": {
+            "title": "Voyageons ensemble à travers le monde",
+            "link": "Parlons de mes voyages"
+        }
+    },
+    "about": {
+        "title": "María Susana Sarlat",
+        "desc_1": "Écrivaine argentino-canadienne consacrée principalement aux romans historiques, qui s'est également aventurée avec succès dans le genre policier et, plus encore, dans le domaine pas toujours facile de l'intrigue internationale.",
+        "desc_2": "Des compositions essayistiques et poétiques font partie de son bagage professionnel, fortement marqué par des voyages aux quatre coins du monde. Sa curiosité innée et sa propension à la recherche des différents sujets qu'elle aime aborder lui ont valu une place au sein de la communauté d'auteurs européens, majoritairement tournés vers l'étude de l'ancienne Ordre du Temple."
+    },
+    "contact": {
+        "title": "Contactez-moi",
+        "form": {
+            "name": "Prénom",
+            "surname": "Nom",
+            "email": "Email",
+            "message": "Message",
+            "submit": "Envoyer le message",
+            "sending": "Envoi en cours...",
+            "success_title": "Merci !",
+            "success_message": "Nous avons bien reçu votre message. Nous vous contacterons bientôt.",
+            "close": "Fermer",
+            "error": "Une erreur s'est produite. Veuillez réessayer plus tard."
+        }
+    },
+    "footer": {
+        "rights": "Tous droits réservés."
+    },
+    "language": {
+        "es": "ES",
+        "en": "EN",
+        "fr": "FR"
+    }
+}

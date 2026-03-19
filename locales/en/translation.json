@@ -1,0 +1,90 @@
+{
+    "header": {
+        "title": "Mary Su Sarlat",
+        "nav": {
+            "books": "Books",
+            "interviews": "Interviews",
+            "travels": "Travels",
+            "about": "About me",
+            "contact": "Contact",
+            "menu": "Navigation menu"
+        }
+    },
+    "books": [
+        {
+            "title": "El Jardín de Klingsor",
+            "description": "Saúl Cáceres, a famed orthopedic surgeon, has lost his soul, but he doesn't know it. A close person has realized this and urges him to take a trip to the beautiful Amalfi Coast in Italy. After meditating on it, Saúl accepts and departs, unknowingly, towards an adventure that will change his life completely. It will happen that in Ravello, and under the spell of Wagnerian music born in that place, life will unveil unexpected situations, obvious to everyone but him, showing him that magic exists when the heart opens to new experiences.",
+            "get_it": [
+                "This title is not for sale",
+                "Get it"
+            ],
+            "link": "#"
+        },
+        {
+            "title": "Historia Novelada de la Casa Fox",
+            "description": "Through a combination of history and novel, \"History of the Fox House\" follows the journey of Don Miguel de Fox, a descendant of Aragonese nobles, as he fights to protect his heritage and the memory of his ancestors. From the time of the Templars to modern Spain, Miguel discovers the secrets and challenges of his lineage, facing legal and social problems while honoring his family's history. The story reveals historical connections with the ancient Knights Templar and unravels cultural and religious conflicts in a town where ancestral memory faces complex modernity.",
+            "get_it": [
+                "This title is not for sale",
+                "Get it"
+            ],
+            "link": "#"
+        },
+        {
+            "title": "La Desaparición del Donante Francés",
+            "description": "Art graduate Minerva Molé is sent from her native France to Barcelona, where she must make contact with Police Captain Jordi Betancourt. A foreigner has donated valuable paintings to the museum where Minerva works, only to disappear without a trace. A mysterious organization called \"The Benefactors\" enters the scene, forcing France and Spain, as well as Canada, to redouble their efforts to break a network of sinister events developing in Europe by them. Microchip implants, murders, and the involvement of simple characters emerging from their opaque corners support this plot of great action and suspense.",
+            "get_it": [
+                "This title is not for sale",
+                "Get it"
+            ],
+            "link": "#"
+        },
+        {
+            "title": "La Octava Gaveta (El Legado Templario)",
+            "description": "A chain of discoveries took place in a stately manor in Cañuelas, Province of Buenos Aires. Abel Zaldívar never imagined that his family history could hold such a surprise, when he set out to organize his father's documents. What did he have to do with the ancient Knights Templar? In his view, absolutely nothing. Yet the unexpected find would draw him into extraordinary adventures that, much to his dismay, he would have to take on. When History and the present intertwine in unison, they yield a plot of compelling depth — just as reflected through the pages of The Eighth Drawer.",
+            "get_it": [
+                "This title is not for sale",
+                "Get it"
+            ],
+            "link": "#"
+        }
+    ],
+    "cta": {
+        "coming_soon": "Coming soon!",
+        "interviews": {
+            "title": "Interested in knowing more about my work?",
+            "link": "Listen to my interviews"
+        },
+        "travels": {
+            "title": "Let's travel the world together",
+            "link": "Let's talk about my travels"
+        }
+    },
+    "about": {
+        "title": "María Susana Sarlat",
+        "desc_1": "Argentine-Canadian writer, devoted primarily to historical novels, who has also ventured successfully into the detective fiction genre and, even further, into the not always straightforward territory of international intrigue.",
+        "desc_2": "Her essayistic and poetic compositions form part of her professional body of work, strongly shaped by travels to different corners of the world. Her innate curiosity and her tendency to research the varied topics she enjoys exploring have earned her a place within the community of European authors, who are largely focused on the study of the ancient Order of the Temple."
+    },
+    "contact": {
+        "title": "Contact Me",
+        "form": {
+            "name": "Name",
+            "surname": "Surname",
+            "email": "Email",
+            "message": "Message",
+            "submit": "Send Message",
+            "sending": "Sending...",
+            "success_title": "Thank you!",
+            "success_message": "We have received your message correctly. We will contact you soon.",
+            "close": "Close",
+            "error": "Something went wrong. Please try again later."
+        }
+    },
+    "footer": {
+        "rights": "All Rights Reserved."
+    },
+    "language": {
+        "es": "ES",
+        "en": "EN",
+        "fr": "FR"
+    }
+}

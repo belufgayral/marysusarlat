@@ -1,0 +1,90 @@
+{
+    "header": {
+        "title": "Mary Su Sarlat",
+        "nav": {
+            "books": "Libros",
+            "interviews": "Entrevistas",
+            "travels": "Viajes",
+            "about": "Sobre mí",
+            "contact": "Contacto",
+            "menu": "Menú de navegación"
+        }
+    },
+    "books": [
+        {
+            "title": "El Jardín de Klingsor",
+            "description": "Saúl Cáceres, afamado cirujano ortopedista, ha perdido su alma, mas él no lo sabe. Una persona cercana, se ha dado cuenta de ello, y le insta a realizar un viaje a la bella Costa Amalfitana de Italia. Tras meditarlo, Saúl acepta y parte, sin él saberlo, hacia una aventura que cambiará su vida por completo. Sucederá que en Ravello, y bajo el embrujo de la música wagneriana nacida en ese sitio, la vida le irá develando situaciones impensadas, obvias para todos menos para él, mostrándole que la magia existe cuando el corazón se abre a nuevas experiencias.",
+            "get_it": [
+                "Este título no se encuentra a la venta",
+                "Conseguirlo"
+            ],
+            "link": "#"
+        },
+        {
+            "title": "Historia Novelada de la Casa Fox",
+            "description": "A través de una combinación de historia y novela, \"Historia de la Casa Fox\" sigue el viaje de don Miguel de Fox, un descendiente de nobles aragoneses, mientras lucha por proteger su herencia y la memoria de sus ancestros. Desde la época de los Templarios hasta la España moderna, Miguel descubre los secretos y desafíos de su linaje, enfrentando problemas legales y sociales mientras honra la historia de su familia. El relato revela conexiones históricas con los antiguos caballeros templarios y desentraña conflictos culturales y religiosos en un pueblo donde la memoria ancestral se enfrenta a la compleja modernidad.",
+            "get_it": [
+                "Este título no se encuentra a la venta",
+                "Conseguirlo"
+            ],
+            "link": "https://autoresdeargentina.com/product/templarios-mary-su-sarlat/"
+        },
+        {
+            "title": "La Desaparición del Donante Francés",
+            "description": "La licenciada en Arte Minerva Molé es enviada desde su Francia natal a Barcelona, donde deberá tomar contacto con el capitán de Policía Jordi Betancourt. Un extranjero ha donado unas pinturas valiosas al museo donde se desempeña Minerva, para luego desaparecer sin dejar rastros. Una misteriosa organización denominada \"Los Benefactores\" entra en escena, obligando a redoblar los esfuerzos de Francia y España, también Canadá, para romper un entramado de siniestralidades que se están desarrollando en Europa por parte de la misma. Implantes de microchips, asesinatos y el involucramiento de personajes simples saliendo de sus opacos rincones, dan sustento a esta trama de gran acción y suspenso.",
+            "get_it": [
+                "Este título no se encuentra a la venta",
+                "Conseguirlo"
+            ],
+            "link": "#"
+        },
+        {
+            "title": "La Octava Gaveta (El Legado Templario)",
+            "description": "Una cadena de hallazgos tuvo lugar en las instalaciones de una casa señorial situada en la localidad de Cañuelas, Pcia. de Buenos Aires. Abel Zaldívar no imaginó jamás que la historia familiar le podría deparar una sorpresa semejante, en ocasión de acudir a poner orden en documentos paternos. ¿Qué tenía que ver él con los antiguos Caballeros Templarios? A su juicio, absolutamente nada. Sin embargo, el inesperado hallazgo lo vería envuelto en aventuras inusitadas, las cuales, muy a su pesar, debería asumir. Cuando Historia y actualidad se conjugan al unísono, nos deparan una trama de envolventes características, tal las reflejadas a través de las páginas de La Octava Gaveta.",
+            "get_it": [
+                "Este título no se encuentra a la venta",
+                "Conseguirlo"
+            ],
+            "link": "#"
+        }
+    ],
+    "cta": {
+        "coming_soon": "¡Próximamente!",
+        "interviews": {
+            "title": "¿Te interesa saber más de mis trabajos?",
+            "link": "Escuchá mis entrevistas"
+        },
+        "travels": {
+            "title": "Recorramos el mundo juntos",
+            "link": "Hablemos de mis viajes"
+        }
+    },
+    "about": {
+        "title": "María Susana Sarlat",
+        "desc_1": "Escritora argentino-canadiense dedicada mayormente a novelas históricas, quien ha incursionado asimismo con éxito en el género policial y más aún, en el terreno no siempre fácil de la intriga internacional.",
+        "desc_2": "Composiciones ensayísticas y poéticas integran su acervo profesional, muy marcado por viajes a diferentes lugares del mundo. Su curiosidad innata y su tendencia a la investigación de los distintos tópicos que gusta de abordar le han facilitado un sitio dentro de la comunidad de autores europeos, mayoritariamente volcados al estudio sobre la antigua Orden del Temple."
+    },
+    "contact": {
+        "title": "Contactame",
+        "form": {
+            "name": "Nombre",
+            "surname": "Apellido",
+            "email": "Email",
+            "message": "Mensaje",
+            "submit": "Enviar Mensaje",
+            "sending": "Enviando...",
+            "success_title": "¡Gracias!",
+            "success_message": "Hemos recibido tu mensaje correctamente. Nos pondremos en contacto contigo pronto.",
+            "close": "Cerrar",
+            "error": "Algo salió mal. Por favor intentá de nuevo más tarde."
+        }
+    },
+    "footer": {
+        "rights": "All Rights Reserved."
+    },
+    "language": {
+        "es": "ES",
+        "en": "EN",
+        "fr": "FR"
+    }
+}
