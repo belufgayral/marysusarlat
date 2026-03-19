@@ -17,7 +17,7 @@ export async function submitContactForm(formData: FormData) {
   const message = formData.get('message') as string;
 
   const { error } = await resend.emails.send({
-    from:     'Mary Su Sarlat <onboarding@resend.dev>',
+    from:     'Web <contacto@mailer.marysusarlat.com>',
     to:       [TEST_EMAIL3],
     replyTo:  email,
     subject:  `Nuevo mensaje de contacto — ${name} ${surname}`,
