@@ -18,6 +18,7 @@
                 "Este título no se encuentra a la venta",
                 "Conseguirlo"
             ],
+            "booktrailers": ["#"],
             "link": "#"
         },
         {
@@ -26,6 +27,10 @@
             "get_it": [
                 "Este título no se encuentra a la venta",
                 "Conseguirlo"
+            ],
+            "booktrailers": [
+                "https://www.youtube.com/embed/om4JAEZMfkg",
+                "https://drive.google.com/file/d/1xnfi-ppz9MEZxMU9bEdnN2b5Yj_OZXaF/preview"
             ],
             "link": "https://autoresdeargentina.com/product/templarios-mary-su-sarlat/"
         },
@@ -36,6 +41,7 @@
                 "Este título no se encuentra a la venta",
                 "Conseguirlo"
             ],
+            "booktrailers": ["#"],
             "link": "#"
         },
         {
@@ -45,6 +51,7 @@
                 "Este título no se encuentra a la venta",
                 "Conseguirlo"
             ],
+            "booktrailers": ["#"],
             "link": "#"
         }
     ],

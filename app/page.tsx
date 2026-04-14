@@ -31,7 +31,7 @@ export default function Home() {
           <img src="/wavesOpacityTop.svg" alt="" className="relative block w-[calc(175%+1.3px)] h-[79px] object-cover object-top" aria-hidden="true" />
         </div>
 
-        {(t('books', { returnObjects: true }) as Array<{ title: string; description: string; get_it: [string, string]; link: string }>).map((book, index) => (
+        {(t('books', { returnObjects: true }) as Array<{ title: string; description: string; get_it: [string, string]; link: string; booktrailers: string[] }>).map((book, index) => (
           <BookSection
             key={index}
             title={book.title}
@@ -41,6 +41,7 @@ export default function Home() {
             reverse={index % 2 !== 0}
             getItText={book.get_it}
             link={book.link}
+            booktrailers={book.booktrailers}
           />
         ))}
 
