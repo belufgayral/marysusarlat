@@ -18,6 +18,7 @@
                 "Ce titre n'est pas en vente",
                 "L'obtenir"
             ],
+            "booktrailers": ["#"],
             "link": "#"
         },
         {
@@ -26,6 +27,10 @@
             "get_it": [
                 "Ce titre n'est pas en vente",
                 "L'obtenir"
+            ],
+            "booktrailers": [
+                "https://www.youtube.com/embed/om4JAEZMfkg",
+                "https://drive.google.com/file/d/1xnfi-ppz9MEZxMU9bEdnN2b5Yj_OZXaF/preview"
             ],
             "link": "#"
         },
@@ -36,6 +41,7 @@
                 "Ce titre n'est pas en vente",
                 "L'obtenir"
             ],
+            "booktrailers": ["#"],
             "link": "#"
         },
         {
@@ -45,6 +51,7 @@
                 "Ce titre n'est pas en vente",
                 "L'obtenir"
             ],
+            "booktrailers": ["#"],
             "link": "#"
         }
     ],
